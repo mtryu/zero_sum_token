@@ -1,8 +1,9 @@
 # zero_sum_token
-ゼロサム型トークンサービス
+zero sum token app
 
-analysis(django)：トランザクションデータを用いたコミュニティ分析用コード\n
-api(django RESTFULL API)： トランザクションの記録、会員情報、商品情報などを返すAPI\n
-ios(flutter)：　iosアプリフロントエンド\n
-web(vue)：webアプリフロントエンド\n
+
+analysis(django)：community analysis using transaction data
+api(django RESTFULL API, postgresql)： record transaction, responce user, product, service data
+ios(flutter)：front code for ios app
+web(vue)：front code for web app
 
